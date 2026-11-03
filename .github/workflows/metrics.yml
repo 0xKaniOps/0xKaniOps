@@ -32,10 +32,6 @@ jobs:
           # Languages
           plugin_languages: yes
 
-          # Achievements, sober display
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-
           # Pinned repositories
           plugin_repositories: yes
           plugin_repositories_pinned: 4
