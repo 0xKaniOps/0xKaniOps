@@ -18,11 +18,11 @@ jobs:
           filename: github-metrics.svg
           template: classic
           config_timezone: Europe/Paris
-          base: header, activity, community, repositories, metadata
+          base: ""
 
           # 3D commit calendar
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
 
           # When and how I code
           plugin_habits: yes
@@ -31,7 +31,3 @@ jobs:
 
           # Languages
           plugin_languages: yes
-
-          # Pinned repositories
-          plugin_repositories: yes
-          plugin_repositories_pinned: 4
