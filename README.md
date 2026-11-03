@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Kani - Cybersecurity × Machine Learning" />
+  <img src="github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 ## 👋 About me
