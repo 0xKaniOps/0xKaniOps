@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub metrics" />
+  <img src="assets/banner.svg" width="100%" alt="Kani - Cybersecurity × Machine Learning" />
 </p>
 
 ## 👋 About me
@@ -20,7 +20,9 @@ I'm building a specialization in **machine learning applied to security**, start
 
 ## 📊 GitHub metrics
 
-<img src="github-metrics.svg" width="100%" alt="GitHub metrics" />
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub metrics" />
+</p>
 
 ## 📫 Contact
 
