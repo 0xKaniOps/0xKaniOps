@@ -9,14 +9,8 @@ I'm building a specialization in **machine learning applied to security**, start
 
 ## 🔭 Currently
 
-- 📚 Machine Learning Specialization (Andrew Ng): Course 1, Week 1
+- 📚 Machine Learning Specialization (Andrew Ng)
 - 🧪 Next lab mini-project: linear regression from scratch with NumPy
-
-## ⚔️ ML Quest
-
-<a href="https://github.com/0xKaniOps/ml-learning">
-  <img src="https://raw.githubusercontent.com/0xKaniOps/ml-learning/main/assets/quest-card.svg" width="100%" alt="ML Quest progress card" />
-</a>
 
 ## 📊 GitHub metrics
 
